@@ -1,0 +1,16 @@
+@font-face{
+	font-family:BadScript;
+	src: url("../font/Bad_Script/BadScript-Regular.ttf");
+}
+@font-face{
+	font-family: Monseratte;
+	src: url("../font/Montserrat/Montserrat-Regular.ttf");
+}
+@font-face{
+	font-family: Ralewayreg;
+	src: url("../font/Raleway/Raleway-Italic-VariableFont_wght.ttf");
+}
+@font-face{
+	font-family: Ralewaybold;
+	src: url("../font/Raleway/Raleway-VariableFont_wght.ttf");
+}
